@@ -30,8 +30,5 @@ int main(){
         cout << "Kraven se queda con duda quien sos, y te mata por si acaso, y dice mejor a la proxima tenes que seguir las indicaciones. >:|" << endl;
     }
     
-    
-    
-
     return 0;
 }
